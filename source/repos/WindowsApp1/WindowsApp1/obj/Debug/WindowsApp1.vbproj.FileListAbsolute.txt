@@ -1,0 +1,12 @@
+c:\users\camil\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+c:\users\camil\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+c:\users\camil\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+c:\users\camil\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+c:\users\camil\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+c:\users\camil\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+c:\users\camil\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+c:\users\camil\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+c:\users\camil\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+c:\users\camil\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+c:\users\camil\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+c:\users\camil\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
